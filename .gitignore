@@ -1,0 +1,7 @@
+/.vscode
+/target
+oddcheck.exe
+oddcheck.ilk
+oddcheck.obj
+oddcheck.pdb
+vc140.pdb
