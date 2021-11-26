@@ -1,4 +1,5 @@
 #include "oddcheck.h"
+using namespace std;
 
 int main(void){
     cout << "Please input a number to check whether it is even or odd." << endl;
